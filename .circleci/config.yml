@@ -6,4 +6,4 @@ jobs:
     steps:
       - checkout
       - run: 'echo "hello world"'
-      - run: 'Testing the os'
+      - run: 'echo "Testing the os"'
